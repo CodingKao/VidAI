@@ -56,3 +56,4 @@ I used the following documentation and guide to help me in developing this app:
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - Follow Youtube tutorial: https://www.youtube.com/watch?v=ZBCUegTZF7M&ab_channel=JavaScriptMastery
 
+Time: 
